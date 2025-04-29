@@ -45,10 +45,10 @@ const bear: BearData[] = [
       {
         id: "portfolio-macos",
         title: "Portfolio macOS",
-        file: "https://raw.githubusercontent.com/Renovamen/playground-macos/main/README.md",
+        file: "https://github.com/shet27/L-shet.dev/blob/main/README.md",
         icon: "i-ri:gamepad-line",
         excerpt: "My portfolio website simulating macOS's GUI...",
-        link: "https://github.com/Renovamen/playground-macos"
+        link: "https://l-shetdev.vercel.app/"
       },
       {
         id: "oh-my-cv",
